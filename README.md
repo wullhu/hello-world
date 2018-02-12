@@ -1,5 +1,5 @@
 # hello-world
 
-Hello every, I am wullhu.
+Hello everyone, I am wullhu.
 
 What's your name?
